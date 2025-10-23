@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy José Garagorry</h1>
-<h3 align="center">Ing. cloud Azure/AWS | DevOps didáctico | Repos reproducibles | Seguridad real | CI/CD para todos</h3>
+<h3 align="center">Cloud Engineering en práctica (Azure/AWS) | DevSecOps real | CI/CD reproducible | Validación técnica y evolución constante</h3>
 
 ---
 
@@ -15,6 +15,10 @@
 
 ## 🚀 Mis tecnologías favoritas
 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+![Alpine](https://img.shields.io/badge/-Alpine-0D597F?logo=alpinelinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
@@ -24,6 +28,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=git&logoColor=white)
+
 
 ---
 
