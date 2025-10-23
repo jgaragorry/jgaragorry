@@ -15,19 +15,39 @@
 
 ## 🚀 Mis tecnologías favoritas
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
-![Alpine](https://img.shields.io/badge/-Alpine-0D597F?logo=alpinelinux&logoColor=white)
+### 🧠 DevOps y Automatización
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=git&logoColor=white)
+
+### ☁️ Cloud y Observabilidad
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+
+### 🖥️ Linux y Sistemas
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+![Alpine](https://img.shields.io/badge/-Alpine-0D597F?logo=alpinelinux&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)
+
+### 🧩 Atlassian y Productividad
+
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-2684FF?logo=bitbucket&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+![Office 365](https://img.shields.io/badge/-Office%20365-D83B01?logo=microsoftoffice&logoColor=white)
+
 
 
 ---
