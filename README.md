@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy José Garagorry</h1>
-<h3 align="center">Cloud Engineering en práctica (Azure/AWS) | DevSecOps real | CI/CD reproducible | Validación técnica y evolución constante</h3>
+<h3 align="center">Cloud Engineering en evolución (Azure/AWS) | DevSecOps real | CI/CD reproducible | Validación técnica y mejora continua</h3>
 
 ---
 
