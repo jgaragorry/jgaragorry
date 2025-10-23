@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy José Garagorry</h1>
-<h3 align="center">ing. cloud | DevOps didáctico | Repos reproducibles | Seguridad real | CI/CD para todos</h3>
+<h3 align="center">Ing. cloud | DevOps didáctico | Repos reproducibles | Seguridad real | CI/CD para todos</h3>
 
 ---
 
