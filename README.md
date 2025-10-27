@@ -41,14 +41,14 @@ Mi enfoque combina experiencia operativa tradicional con prácticas modernas **C
 
 ## 🌟 Proyectos Destacados
 
-Aquí algunos de mis repositorios más relevantes:
+Aquí algunos de mis repositorios más relevantes y alineados con mi enfoque en **Cloud, DevSecOps, seguridad y automatización**:
 
-- 🐳 [**Docker Distroless DevSecOps Lab**](https://github.com/jgaragorry/docker-go-distroless) — Buenas prácticas de seguridad en imágenes productivas.  
-- ☁️ [**Terraform FinOps Infra Lab**](https://github.com/jgaragorry/terraform-budget-finops) — Infraestructura en la nube optimizada en costos.  
-- 🧠 [**Linux CLI Modern Workshop**](https://github.com/jgaragorry/linux-cli-modern) — Mejorando la productividad en servidores.  
-- 🔐 [**Observability Lab**](https://github.com/jgaragorry/observability-lab) — Stack Prometheus + Grafana reproducible.
+- 🐳 [**Docker Distroless DevSecOps Lab**](https://github.com/jgaragorry/docker-go-distroless) — Buenas prácticas de seguridad y distroless para entornos productivos.  
+- ☁️ [**Terraform FinOps Infra Lab**](https://github.com/jgaragorry/terraform-budget-finops) — Infraestructura en la nube optimizada en costos y FinOps.  
+- 🧠 [**Linux CLI Modern Workshop**](https://github.com/jgaragorry/linux-cli-modern) — Comandos modernos y productividad para administradores Linux.  
+- 🔐 [**Observability Lab**](https://github.com/jgaragorry/observability-lab) — Stack Prometheus + Grafana reproducible para monitoreo y alertas.
 
-👉 También puedes explorar todos mis proyectos en 👉 [**mis repositorios públicos**](https://github.com/jgaragorry?tab=repositories).
+👉 También puedes explorar todos mis proyectos públicos en 👉 [**GitHub Repositories**](https://github.com/jgaragorry?tab=repositories).
 
 ---
 
@@ -70,8 +70,7 @@ Si estás construyendo equipos de **Cloud / DevSecOps / SRE** o quieres colabora
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jgaragorry/)  
 - 🐙 [GitHub](https://github.com/jgaragorry)  
-- 🌐 Sitio web / portafolio *(opcional)*  
-- ✉️ jose.garagorry@example.com *(o tu correo profesional si lo deseas)*
+- ✉️ *(Agrega aquí tu correo profesional si deseas)*
 
 ---
 
@@ -90,4 +89,3 @@ Si estás construyendo equipos de **Cloud / DevSecOps / SRE** o quieres colabora
 
 ⭐ Si alguno de mis proyectos te resulta útil, ¡no olvides dejar una estrella y compartirlo con otros!  
 🙌 El conocimiento crece cuando se comparte.
-
