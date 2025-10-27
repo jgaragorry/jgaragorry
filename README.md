@@ -1,79 +1,93 @@
-<h1 align="center">👋 Hola, soy José Garagorry</h1>
-<h3 align="center">Cloud Engineering en evolución (Azure/AWS) | DevSecOps real | CI/CD reproducible | Validación técnica y mejora continua</h3>
+# 👨‍💻 José Garagorry — Cloud Engineer & DevSecOps Practitioner
+
+![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-blue)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
+![Security](https://img.shields.io/badge/Security-DevSecOps-red)
+![Linux](https://img.shields.io/badge/Linux-Unix%20%7C%20Bash-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Advocate-yellow)
+![Visitors](https://komarev.com/ghpvc/?username=jgaragorry&color=orange)
 
 ---
 
-## 🧠 ¿Qué hago?
+## 🧭 Sobre mí
 
-🎓 Diseño workshops reproducibles que enseñan DevOps, Docker, Go, IaC, observabilidad y seguridad  
-📦 Cada repo está validado, documentado y listo para CI/CD  
-📚 Transformo errores en lecciones, y scripts en herramientas educativas  
-🔐 Uso distroless, `USER nonroot`, Trivy y `.dockerignore` como parte del aprendizaje  
-🧩 Cada fase del workshop tiene propósito, validación y documentación
+Soy **Ingeniero Cloud** con más de **3.5 años de experiencia en DevSecOps** y más de **15 años administrando entornos críticos Unix/Linux**, especializado en **automatizar, asegurar y optimizar infraestructuras en la nube**.
 
----
+Mi enfoque combina experiencia operativa tradicional con prácticas modernas **Cloud Native**, para diseñar entornos **seguros, reproducibles y observables** desde el primer día.
+
+> 🚀 _“Automation is good, but Secure Automation is better.”_
 
 ---
 
-## 🚀 Tecnologías que aplico y valido
+## 🧰 Tecnologías y Competencias
 
-### 🧠 DevOps y Automatización
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
-### ☁️ Cloud y Observabilidad
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Thanos](https://img.shields.io/badge/-Thanos-4B0082?logo=thanos&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-
-### 🖥️ Sistemas y Seguridad
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
-![Alpine](https://img.shields.io/badge/-Alpine-0D597F?logo=alpinelinux&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)
-![Trivy](https://img.shields.io/badge/-Trivy-0F172A?logo=trivy&logoColor=white)
-
-### 📚 Productividad y Gestión
-
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-2684FF?logo=bitbucket&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
-![Office 365](https://img.shields.io/badge/-Office%20365-D83B01?logo=microsoftoffice&logoColor=white)
-
+- ☁️ **Cloud:** Azure | AWS  
+- 🧱 **IaC:** Terraform | Ansible  
+- 🐳 **Contenedores:** Docker (distroless) | Trivy  
+- 🔐 **Seguridad:** DevSecOps | FinOps | Hardening | Security by Design  
+- 📊 **Observabilidad:** Prometheus | Grafana | Alerting  
+- 🐧 **OS & Scripting:** Linux (Debian/Ubuntu/CentOS) | Bash scripting avanzado
 
 ---
 
-## 📚 Mis workshops destacados
+## 🧪 En lo que estoy trabajando ahora
 
-| Workshop | Tecnología | Enfoque | Reproducible | Seguridad | Documentación |
-|----------|------------|---------|--------------|-----------|----------------|
-| Docker Compose + Go | Go, Docker, distroless | DevOps real | ✅ | ✅ | ✅ |
-| Observabilidad Fase 1–4 | Prometheus, Grafana | Métricas y alertas | ✅ | ✅ | ✅ |
-| Terraform + Budget | IaC, FinOps | Validación de recursos | ✅ | ✅ | ✅ |
-
----
-
-## 📞 Contacto y comunidad
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Garagorry-blue?logo=linkedin)](https://www.linkedin.com/in/jgaragorry/)
-[![YouTube](https://img.shields.io/badge/YouTube-Softraincorp-red?logo=youtube)](https://www.youtube.com/@Softraincorp)
-[![TikTok](https://img.shields.io/badge/TikTok-Softtraincorp-black?logo=tiktok)](https://www.tiktok.com/@softtraincorp)
-[![Instagram](https://img.shields.io/badge/Instagram-STCLatam-purple?logo=instagram)](https://www.instagram.com/stclatam/)
-[![WhatsApp Comunidad](https://img.shields.io/badge/WhatsApp-Comunidad-green?logo=whatsapp)](https://chat.whatsapp.com/ENuRMnZ38fv1pk0mHlSixa)
+- 🔹 Laboratorios prácticos para entrenamiento en **Terraform + DevSecOps**  
+- 🔹 Optimización de **pipelines CI/CD con seguridad integrada**  
+- 🔹 Integración de observabilidad y respuesta temprana a incidentes  
+- 🔹 Hardening y automatización de entornos Cloud híbridos
 
 ---
 
-## ⭐ ¿Te gustó lo que ves?
+## 🌟 Proyectos Destacados
 
-Si algún workshop te ayudó, considera darle una ⭐ al repositorio o compartirlo con otros instructores y estudiantes. ¡Cada estrella ayuda a que más personas aprendan DevOps real!
+Aquí algunos de mis repositorios más relevantes:
+
+- 🐳 [**Docker Distroless DevSecOps Lab**](https://github.com/jgaragorry/docker-go-distroless) — Buenas prácticas de seguridad en imágenes productivas.  
+- ☁️ [**Terraform FinOps Infra Lab**](https://github.com/jgaragorry/terraform-budget-finops) — Infraestructura en la nube optimizada en costos.  
+- 🧠 [**Linux CLI Modern Workshop**](https://github.com/jgaragorry/linux-cli-modern) — Mejorando la productividad en servidores.  
+- 🔐 [**Observability Lab**](https://github.com/jgaragorry/observability-lab) — Stack Prometheus + Grafana reproducible.
+
+👉 También puedes explorar todos mis proyectos en 👉 [**mis repositorios públicos**](https://github.com/jgaragorry?tab=repositories).
+
+---
+
+## 📚 Lo que comparto y enseño
+
+Me apasiona compartir conocimiento práctico y útil para la comunidad:
+
+- 🌍 Laboratorios abiertos orientados a DevSecOps y Cloud  
+- 🧰 Workshops y demos reproducibles para estudiantes y profesionales  
+- 🧭 Mejores prácticas reales en seguridad, automatización y observabilidad
+
+📌 Todos mis labs están documentados paso a paso para que cualquiera pueda aprender, mejorar y aportar.
+
+---
+
+## 📨 Conectemos
+
+Si estás construyendo equipos de **Cloud / DevSecOps / SRE** o quieres colaborar en proyectos Open Source — **estoy abierto a oportunidades remotas y globales** 🌎
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jgaragorry/)  
+- 🐙 [GitHub](https://github.com/jgaragorry)  
+- 🌐 Sitio web / portafolio *(opcional)*  
+- ✉️ jose.garagorry@example.com *(o tu correo profesional si lo deseas)*
+
+---
+
+## ⚡ Frase que me define
+
+> _“La seguridad no es una etapa, es una cultura que se automatiza.”_ 🔐⚙️
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=radical)
+
+---
+
+⭐ Si alguno de mis proyectos te resulta útil, ¡no olvides dejar una estrella y compartirlo con otros!  
+🙌 El conocimiento crece cuando se comparte.
+
