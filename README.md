@@ -41,14 +41,13 @@ Mi enfoque combina experiencia operativa tradicional con prácticas modernas **C
 
 ## 🌟 Proyectos Destacados
 
-Aquí algunos de mis repositorios más relevantes y alineados con mi enfoque en **Cloud, DevSecOps, seguridad y automatización**:
-
 - 🐳 [**Docker Distroless DevSecOps Lab**](https://github.com/jgaragorry/docker-go-distroless) — Buenas prácticas de seguridad y distroless para entornos productivos.  
 - ☁️ [**Terraform FinOps Infra Lab**](https://github.com/jgaragorry/terraform-budget-finops) — Infraestructura en la nube optimizada en costos y FinOps.  
 - 🧠 [**Linux CLI Modern Workshop**](https://github.com/jgaragorry/linux-cli-modern) — Comandos modernos y productividad para administradores Linux.  
 - 🔐 [**Observability Lab**](https://github.com/jgaragorry/observability-lab) — Stack Prometheus + Grafana reproducible para monitoreo y alertas.
 
 👉 También puedes explorar todos mis proyectos públicos en 👉 [**GitHub Repositories**](https://github.com/jgaragorry?tab=repositories).
+
 
 ---
 
