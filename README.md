@@ -41,13 +41,14 @@ Mi enfoque combina experiencia operativa tradicional con prácticas modernas **C
 
 ## 🌟 Proyectos Destacados
 
-- 🐳 [**Docker Distroless DevSecOps Lab**](https://github.com/jgaragorry/docker-go-distroless) — Buenas prácticas de seguridad y distroless para entornos productivos.  
-- ☁️ [**Terraform FinOps Infra Lab**](https://github.com/jgaragorry/terraform-budget-finops) — Infraestructura en la nube optimizada en costos y FinOps.  
-- 🧠 [**Linux CLI Modern Workshop**](https://github.com/jgaragorry/linux-cli-modern) — Comandos modernos y productividad para administradores Linux.  
-- 🔐 [**Observability Lab**](https://github.com/jgaragorry/observability-lab) — Stack Prometheus + Grafana reproducible para monitoreo y alertas.
+Aquí algunos de mis repositorios más relevantes y alineados con mi enfoque en **Cloud, DevSecOps, seguridad y automatización**:
+
+- 🐳 [**docker-ninja-multistage-workshop**](https://github.com/jgaragorry/docker-ninja-multistage-workshop) — Construcción de imágenes ligeras y seguras con Docker multistage.  
+- 🔐 [**terraform-checkov-security-lab**](https://github.com/jgaragorry/terraform-checkov-security-lab) — Escaneo de seguridad automatizado en IaC usando Checkov y Terraform.  
+- 📈 [**observabilidad-basica-prometheus-grafana**](https://github.com/jgaragorry/observabilidad-basica-prometheus-grafana) — Stack reproducible de Prometheus + Grafana para monitoreo inicial.  
+- 🧠 [**arsenal-analista-linux**](https://github.com/jgaragorry/arsenal-analista-linux) — Colección práctica de herramientas y comandos esenciales para analistas Linux.
 
 👉 También puedes explorar todos mis proyectos públicos en 👉 [**GitHub Repositories**](https://github.com/jgaragorry?tab=repositories).
-
 
 ---
 
