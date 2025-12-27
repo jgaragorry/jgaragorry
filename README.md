@@ -60,13 +60,12 @@
 
 ---
 
-### 📊 GitHub Performance
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
+  <img src="https://github-profile-trophies.vercel.app/?username=jgaragorry&theme=flat&no-frame=true&column=7" />
 </div>
-
+<br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -75,11 +74,10 @@
 
 ### 🖊️ Guestbook (Libro de Visitas)
 
-¡Deja tu huella en mi perfil! Para firmar, simplemente **[abre un Issue aquí](https://github.com/jgaragorry/jgaragorry/issues/new)** con un saludo o comentario.
+¡Deja tu huella en mi perfil! Para firmar, simplemente **[abre un Issue AQUÍ](https://github.com/jgaragorry/jgaragorry/issues/new)** poniendo un saludo en la descripción.
 
 ---
 
 <div align="center">
 <sub><em>Configured with ❤️ by a Cloud Advisor using GitHub Actions.</em></sub>
 </div>
-
