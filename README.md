@@ -1,3 +1,5 @@
+
+- 🖊️ **[jgaragorry](https://github.com/jgaragorry/jgaragorry/issues/5)** dice: *"Ya que el repo que inicialmente use ya no esta ctrivo yno tiene mantenimiento."* (27/12/2025)
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=260&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20Advisor%20%7C%20DevSecOps%20Architect&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
