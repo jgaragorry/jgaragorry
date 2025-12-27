@@ -57,7 +57,7 @@
 ### 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="languages graph" />
 </div>
@@ -67,7 +67,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 ### 🖊️ Guestbook (Libro de Visitas)
