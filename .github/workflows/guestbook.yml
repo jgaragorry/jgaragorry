@@ -1,17 +1,61 @@
 name: Update Guestbook
 on:
   issues:
-    types: [opened, edited]
+    types: [opened]
 
 jobs:
   update-guestbook:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: JasonEtco/readme-guestbook@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
-          ISSUE_TITLE: ${{ github.event.issue.title }}
-          ISSUE_BODY: ${{ github.event.issue.body }}
-          ISSUE_USER: ${{ github.actor }}
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with new entry
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // 1. Obtener datos del Issue
+            const issueUser = context.payload.issue.user.login;
+            const issueBody = context.payload.issue.body || "¡Hola!"; // Texto por defecto si está vacío
+            const issueLink = context.payload.issue.html_url;
+            const date = new Date().toLocaleDateString('es-ES');
+            
+            // 2. Formato del mensaje (Usuario + Link + Mensaje + Fecha)
+            const newEntry = `- 🖊️ **[${issueUser}](${issueLink})** dice: *"${issueBody}"* (${date})\n`;
+            
+            // 3. Leer el README actual
+            let readme = fs.readFileSync('README.md', 'utf8');
+            
+            // 4. Buscar las marcas invisibles
+            const startMarker = '';
+            const endMarker = '';
+            
+            const startIdx = readme.indexOf(startMarker);
+            const endIdx = readme.indexOf(endMarker);
+            
+            if (startIdx !== -1 && endIdx !== -1) {
+              // 5. Insertar el mensaje nuevo justo después de la marca de inicio
+              const before = readme.substring(0, startIdx + startMarker.length);
+              const after = readme.substring(startIdx + startMarker.length);
+              
+              // Se añade al principio de la lista (LIFO)
+              const newContent = before + '\n' + newEntry + after;
+              
+              fs.writeFileSync('README.md', newContent);
+              console.log("¡Nueva firma añadida!");
+            } else {
+              console.log("Error: No encontré las etiquetas en el README");
+              // No fallamos el workflow para no generar ruido, pero avisamos en logs
+            }
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name 'Guestbook Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add README.md
+          # Solo hacemos commit si hay cambios
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Nueva firma de @${{ github.actor }}" && git push)
