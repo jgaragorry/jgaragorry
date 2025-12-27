@@ -8,14 +8,11 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/jgaragorry">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jj@garagorry.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgaragorry)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jj@garagorry.com)
+
   <br/><br/>
+  
   <img src="https://komarev.com/ghpvc/?username=jgaragorry&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="jgaragorry" />
 
 </div>
@@ -30,7 +27,7 @@ Soy **Ingeniero Cloud** con más de **3.5 años de experiencia en DevSecOps** y 
 
 ---
 
-### 🛠️ ArsenTech Stack & Herramientas
+### 🛠️ Tech Stack & Herramientas
 
 <div align="center">
 
@@ -57,13 +54,8 @@ Soy **Ingeniero Cloud** con más de **3.5 años de experiencia en DevSecOps** y 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=false" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
