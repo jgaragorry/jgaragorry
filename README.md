@@ -1,4 +1,6 @@
 
+- 🖊️ **[jgaragorry](https://github.com/jgaragorry/jgaragorry/issues/8)** dice: *"Me ayudoa entender e ir al grano directamente."* (27/12/2025)
+
 - 🖊️ **[jgaragorry](https://github.com/jgaragorry/jgaragorry/issues/7)** dice: *"Gracias por el aporte!!"* (27/12/2025)
 <div align="center">
 
