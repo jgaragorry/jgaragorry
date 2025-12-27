@@ -1,28 +1,26 @@
-
-- 🖊️ **[jgaragorry](https://github.com/jgaragorry/jgaragorry/issues/5)** dice: *"Ya que el repo que inicialmente use ya no esta ctrivo yno tiene mantenimiento."* (27/12/2025)
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=260&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20Advisor%20%7C%20DevSecOps%20Architect&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=260&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20Advisor%20%7C%20DevSecOps%20Architect&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3596F7&center=true&vCenter=true&width=600&lines=Architecting+Secure+Cloud+Environments;Automating+Infrastructure+with+Terraform;Liderando+ISO+27001+%26+FinOps;Mentoring+Future+SREs" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3596F7&center=true&vCenter=true&width=600&lines=Architecting+Secure+Cloud+Environments;Automating+Infrastructure+with+Terraform;Liderando+ISO+27001+%26+FinOps;Mentoring+Future+SREs" alt="Typing SVG" />
+</a>
 
-  <br/>
+<br/>
 
-  <a href="https://linkedin.com/in/jgaragorry">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://softraincorp.com">
-    <img src="https://img.shields.io/badge/Web-SoftrainCorp-20232a?style=for-the-badge&logo=world&logoColor=white" />
-  </a>
-  <a href="mailto:jj@garagorry.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/jgaragorry">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://softraincorp.com">
+<img src="https://img.shields.io/badge/Web-SoftrainCorp-20232a?style=for-the-badge&logo=world&logoColor=white" />
+</a>
+<a href="mailto:jj@garagorry.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <br/><br/>
+<br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=jgaragorry&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="jgaragorry" />
+<img src="https://komarev.com/ghpvc/?username=jgaragorry&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="jgaragorry" />
 
 </div>
 
@@ -56,19 +54,21 @@
 
 | **Proyecto / Arquitectura** | **Stack & Solución** |
 | :--- | :--- |
-| **[aws-terraform-migration-framework](https://github.com/jgaragorry/AWS-Lift-and-Shift-con-Terraform-IaC-G)** | Framework de migración empresarial con auditoría **FinOps** y State Locking.<br/>`Terraform` `AWS` `Bash` |
-| **[aws-ecs-fargate-cicd](https://github.com/jgaragorry/WS-Zero-Touch-Deployment-CICD)** | Pipeline "Zero-Touch" para despliegue de contenedores en AWS Fargate.<br/>`GitHub Actions` `ECS` `Docker` |
-| **[azure-migration-suite](https://github.com/jgaragorry/azure-onprem-lift-and-shift-lab)** | Suite de automatización para migraciones a Azure sin licencias externas.<br/>`Azure` `Linux` `Rsync` |
+| **[aws-terraform-migration-framework](https://github.com/jgaragorry/aws-terraform-migration-framework)** | Framework de migración empresarial con auditoría **FinOps** y State Locking.<br/>`Terraform` `AWS` `Bash` |
+| **[aws-ecs-fargate-cicd](https://github.com/jgaragorry/aws-ecs-fargate-cicd)** | Pipeline "Zero-Touch" para despliegue de contenedores en AWS Fargate.<br/>`GitHub Actions` `ECS` `Docker` |
+| **[azure-migration-suite](https://github.com/jgaragorry/azure-migration-suite)** | Suite de automatización para migraciones a Azure sin licencias externas.<br/>`Azure` `Linux` `Rsync` |
 
 ---
+
 ### 📊 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <sub><em>Configured with ❤️ by a Cloud Advisor using GitHub Actions.</em></sub>
+<sub><em>Configured with ❤️ by a Cloud Advisor using GitHub Actions.</em></sub>
 </div>
