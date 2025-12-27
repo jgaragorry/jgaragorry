@@ -1,90 +1,77 @@
-# 👨‍💻 José Garagorry — Cloud Engineer & DevSecOps Practitioner
+<div align="center">
 
-![Cloud](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-blue)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
-![Security](https://img.shields.io/badge/Security-DevSecOps-red)
-![Linux](https://img.shields.io/badge/Linux-Unix%20%7C%20Bash-green)
-![Open Source](https://img.shields.io/badge/Open%20Source-Advocate-yellow)
-![Visitors](https://komarev.com/ghpvc/?username=jgaragorry&color=orange)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Cloud%20Advisor%20%7C%20DevSecOps%20%7C%20FinOps&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E91FC&center=true&vCenter=true&width=500&lines=Architecting+Secure+Cloud+Environments;Automating+with+Terraform+%26+Ansible;Liderando+Estrategias+FinOps;Expert+in+Linux+Hardening" alt="Typing SVG" />
+  </a>
 
-## 🧭 Sobre mí
+  <br/>
 
-Soy **Ingeniero Cloud** con más de **3.5 años de experiencia en DevSecOps** y más de **15 años administrando entornos críticos Unix/Linux**, especializado en **automatizar, asegurar y optimizar infraestructuras en la nube**.
+  <a href="https://linkedin.com/in/jgaragorry">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jj@garagorry.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=jgaragorry&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="jgaragorry" />
 
-Mi enfoque combina experiencia operativa tradicional con prácticas modernas **Cloud Native**, para diseñar entornos **seguros, reproducibles y observables** desde el primer día.
-
-> 🚀 _“Automation is good, but Secure Automation is better.”_
-
----
-
-## 🧰 Tecnologías y Competencias
-
-- ☁️ **Cloud:** Azure | AWS  
-- 🧱 **IaC:** Terraform | Ansible  
-- 🐳 **Contenedores:** Docker (distroless) | Trivy  
-- 🔐 **Seguridad:** DevSecOps | FinOps | Hardening | Security by Design  
-- 📊 **Observabilidad:** Prometheus | Grafana | Alerting  
-- 🐧 **OS & Scripting:** Linux (Debian/Ubuntu/CentOS) | Bash scripting avanzado
+</div>
 
 ---
 
-## 🧪 En lo que estoy trabajando ahora
+### 🧭 Sobre mí
 
-- 🔹 Laboratorios prácticos para entrenamiento en **Terraform + DevSecOps**  
-- 🔹 Optimización de **pipelines CI/CD con seguridad integrada**  
-- 🔹 Integración de observabilidad y respuesta temprana a incidentes  
-- 🔹 Hardening y automatización de entornos Cloud híbridos
+Soy **Ingeniero Cloud** con más de **3.5 años de experiencia en DevSecOps** y más de **15 años administrando entornos críticos Unix/Linux**. Mi especialidad es **automatizar, asegurar y optimizar** infraestructuras en la nube.
+
+> 🚀 *“Automation is good, but Secure Automation is better.”*
 
 ---
 
-### 💼 Proyectos Clave y Arquitecturas
+### 🛠️ ArsenTech Stack & Herramientas
 
-| **Project** | **Description & Stack** |
+<div align="center">
+
+| **Cloud & Infrastructure** | **DevSecOps & CI/CD** | **Core & Scripting** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible" width="230" /> | <img src="https://skillicons.dev/icons?i=docker,githubactions,grafana,prometheus" width="230" /> | <img src="https://skillicons.dev/icons?i=linux,bash,git,vim" width="230" /> |
+
+</div>
+
+---
+
+### 💼 Arquitecturas de Referencia y Proyectos
+
+| **Proyecto** | **Descripción y Stack** |
 | :--- | :--- |
 | **[aws-terraform-migration-framework](https://github.com/jgaragorry/AWS-Lift-and-Shift-con-Terraform-IaC-G)** | Framework completo de migración Cloud con auditoría **FinOps** integrada.<br/>`Terraform` `AWS` `Bash` |
 | **[aws-ecs-fargate-cicd](https://github.com/jgaragorry/WS-Zero-Touch-Deployment-CICD)** | Pipeline "Zero-Touch" para despliegue de contenedores en AWS Fargate.<br/>`GitHub Actions` `ECS` `Docker` |
 | **[azure-migration-suite](https://github.com/jgaragorry/azure-onprem-lift-and-shift-lab)** | Suite de automatización para migraciones a Azure sin licencias externas.<br/>`Azure` `Linux` `Rsync` |
 
-👉 También puedes explorar todos mis proyectos públicos en 👉 [**GitHub Repositories**](https://github.com/jgaragorry?tab=repositories).
+👉 *Explora más en mis [**Repositorios**](https://github.com/jgaragorry?tab=repositories).*
 
 ---
 
-## 📚 Lo que comparto y enseño
+### 📊 GitHub Analytics
 
-Me apasiona compartir conocimiento práctico y útil para la comunidad:
+<div align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+</div>
 
-- 🌍 Laboratorios abiertos orientados a DevSecOps y Cloud  
-- 🧰 Workshops y demos reproducibles para estudiantes y profesionales  
-- 🧭 Mejores prácticas reales en seguridad, automatización y observabilidad
-
-📌 Todos mis labs están documentados paso a paso para que cualquiera pueda aprender, mejorar y aportar.
-
----
-
-## 📨 Conectemos
-
-Si estás construyendo equipos de **Cloud / DevSecOps / SRE** o quieres colaborar en proyectos Open Source — **estoy abierto a oportunidades remotas y globales** 🌎
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jgaragorry/)  
-- 🐙 [GitHub](https://github.com/jgaragorry)  
-- ✉️ *(Agrega aquí tu correo profesional si deseas)*
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## ⚡ Frase que me define
-
-> _“La seguridad no es una etapa, es una cultura que se automatiza.”_ 🔐⚙️
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=radical)
-
----
-
-⭐ Si alguno de mis proyectos te resulta útil, ¡no olvides dejar una estrella y compartirlo con otros!  
-🙌 El conocimiento crece cuando se comparte.
+<div align="center">
+  <h3>⚡ <em>“La seguridad no es una etapa, es una cultura que se automatiza.”</em> 🔐</h3>
+</div>
