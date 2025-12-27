@@ -8,9 +8,15 @@
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgaragorry)
-  [![Web](https://img.shields.io/badge/Web-SoftrainCorp-20232a?style=for-the-badge&logo=world&logoColor=white)](https://softraincorp.com)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jj@garagorry.com)
+  <a href="https://linkedin.com/in/jgaragorry">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://softraincorp.com">
+    <img src="https://img.shields.io/badge/Web-SoftrainCorp-20232a?style=for-the-badge&logo=world&logoColor=white" />
+  </a>
+  <a href="mailto:jj@garagorry.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
   <br/><br/>
   
@@ -57,16 +63,14 @@
 ### 📊 GitHub Performance
 
 <div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Langs" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 ---
 
 ### 🖊️ Guestbook (Libro de Visitas)
