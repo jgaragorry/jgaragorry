@@ -1,5 +1,3 @@
-
-- 🖊️ **[jgaragorry](https://github.com/jgaragorry/jgaragorry/issues/6)** dice: *"Probando el libro de firma."* (27/12/2025)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=260&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20Advisor%20%7C%20DevSecOps%20Architect&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
@@ -64,9 +62,10 @@
 
 ### 📊 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
