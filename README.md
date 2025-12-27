@@ -1,15 +1,16 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=250&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Cloud%20Advisor%20%7C%20DevSecOps%20%7C%20FinOps&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=260&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20Advisor%20%7C%20DevSecOps%20Architect&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E91FC&center=true&vCenter=true&width=500&lines=Architecting+Secure+Cloud+Environments;Automating+with+Terraform+%26+Ansible;Liderando+Estrategias+FinOps;Expert+in+Linux+Hardening" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3596F7&center=true&vCenter=true&width=600&lines=Architecting+Secure+Cloud+Environments;Automating+Infrastructure+with+Terraform;Liderando+ISO+27001+%26+FinOps;Mentoring+Future+SREs" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgaragorry)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jj@garagorry.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgaragorry)
+  [![Web](https://img.shields.io/badge/Web-SoftrainCorp-20232a?style=for-the-badge&logo=world&logoColor=white)](https://softraincorp.com)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jj@garagorry.com)
 
   <br/><br/>
   
@@ -19,44 +20,49 @@
 
 ---
 
-### 🧭 Sobre mí
+### 🧭 Executive Summary
 
-Soy **Ingeniero Cloud** con más de **3.5 años de experiencia en DevSecOps** y más de **15 años administrando entornos críticos Unix/Linux**. Mi especialidad es **automatizar, asegurar y optimizar** infraestructuras en la nube.
+**Senior Cloud Architect & Advisor** con más de **20 años de trayectoria**. Especializado en transformar operaciones tradicionales en arquitecturas Cloud Native seguras y rentables.
 
-> 🚀 *“Automation is good, but Secure Automation is better.”*
+> 🚀 *“No solo escribo código; diseño estrategias de infraestructura resiliente, segura (ISO 27001) y eficiente (FinOps).”*
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-| **Cloud & Infrastructure** | **DevSecOps & CI/CD** | **Core & Scripting** |
+| **Cloud Strategy** | **Infrastructure as Code** | **DevSecOps & CI/CD** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible" width="230" /> | <img src="https://skillicons.dev/icons?i=docker,githubactions,grafana,prometheus" width="230" /> | <img src="https://skillicons.dev/icons?i=linux,bash,git,vim" width="230" /> |
+| <img src="https://skillicons.dev/icons?i=azure,aws" width="100" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible" width="100" /> | <img src="https://skillicons.dev/icons?i=githubactions,docker,jenkins" width="150" /> |
+
+| **Observability** | **Core Systems** | **Security & Compliance** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=grafana,prometheus" width="100" /> | <img src="https://skillicons.dev/icons?i=linux,bash,git" width="150" /> | ![ISO27001](https://img.shields.io/badge/ISO-27001_Lead-success?style=flat-square&logo=security) ![FinOps](https://img.shields.io/badge/FinOps-Strategist-blue?style=flat-square&logo=azure) |
 
 </div>
 
 ---
 
-### 💼 Arquitecturas de Referencia y Proyectos
+### 💼 Featured Architectures (Portafolio)
 
-| **Proyecto** | **Descripción y Stack** |
+| **Proyecto / Arquitectura** | **Stack & Solución** |
 | :--- | :--- |
-| **[aws-terraform-migration-framework](https://github.com/jgaragorry/AWS-Lift-and-Shift-con-Terraform-IaC-G)** | Framework completo de migración Cloud con auditoría **FinOps** integrada.<br/>`Terraform` `AWS` `Bash` |
+| **[aws-terraform-migration-framework](https://github.com/jgaragorry/AWS-Lift-and-Shift-con-Terraform-IaC-G)** | Framework de migración empresarial con auditoría **FinOps** y State Locking.<br/>`Terraform` `AWS` `Bash` |
 | **[aws-ecs-fargate-cicd](https://github.com/jgaragorry/WS-Zero-Touch-Deployment-CICD)** | Pipeline "Zero-Touch" para despliegue de contenedores en AWS Fargate.<br/>`GitHub Actions` `ECS` `Docker` |
 | **[azure-migration-suite](https://github.com/jgaragorry/azure-onprem-lift-and-shift-lab)** | Suite de automatización para migraciones a Azure sin licencias externas.<br/>`Azure` `Linux` `Rsync` |
 
-👉 *Explora más en mis [**Repositorios**](https://github.com/jgaragorry?tab=repositories).*
-
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgaragorry&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="languages graph" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -64,6 +70,12 @@ Soy **Ingeniero Cloud** con más de **3.5 años de experiencia en DevSecOps** y 
 
 ---
 
+### 🖊️ Guestbook (Libro de Visitas)
+
+¡Deja tu huella en mi perfil! Para firmar, simplemente **[abre un Issue aquí](https://github.com/jgaragorry/jgaragorry/issues/new)** con un saludo o comentario.
+
+---
+
 <div align="center">
-  <h3>⚡ <em>“La seguridad no es una etapa, es una cultura que se automatiza.”</em> 🔐</h3>
+  <sub><em>Configured with ❤️ by a Cloud Advisor using GitHub Actions.</em></sub>
 </div>
