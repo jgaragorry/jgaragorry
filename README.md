@@ -59,7 +59,6 @@
 | **[azure-migration-suite](https://github.com/jgaragorry/azure-onprem-lift-and-shift-lab)** | Suite de automatización para migraciones a Azure sin licencias externas.<br/>`Azure` `Linux` `Rsync` |
 
 ---
-
 ### 📊 GitHub Performance
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgaragorry&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
