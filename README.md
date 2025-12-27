@@ -39,14 +39,13 @@ Mi enfoque combina experiencia operativa tradicional con prácticas modernas **C
 
 ---
 
-## 🌟 Proyectos Destacados
+### 💼 Proyectos Clave y Arquitecturas
 
-Aquí algunos de mis repositorios más relevantes y alineados con mi enfoque en **Cloud, DevSecOps, seguridad y automatización**:
-
-- 🐳 [**docker-ninja-multistage-workshop**](https://github.com/jgaragorry/docker-ninja-multistage-workshop) — Construcción de imágenes ligeras y seguras con Docker multistage.  
-- 🔐 [**terraform-checkov-security-lab**](https://github.com/jgaragorry/terraform-checkov-security-lab) — Escaneo de seguridad automatizado en IaC usando Checkov y Terraform.  
-- 📈 [**observabilidad-basica-prometheus-grafana**](https://github.com/jgaragorry/observabilidad-basica-prometheus-grafana) — Stack reproducible de Prometheus + Grafana para monitoreo inicial.  
-- 🧠 [**arsenal-analista-linux**](https://github.com/jgaragorry/arsenal-analista-linux) — Colección práctica de herramientas y comandos esenciales para analistas Linux.
+| **Project** | **Description & Stack** |
+| :--- | :--- |
+| **[aws-terraform-migration-framework](https://github.com/jgaragorry/AWS-Lift-and-Shift-con-Terraform-IaC-G)** | Framework completo de migración Cloud con auditoría **FinOps** integrada.<br/>`Terraform` `AWS` `Bash` |
+| **[aws-ecs-fargate-cicd](https://github.com/jgaragorry/WS-Zero-Touch-Deployment-CICD)** | Pipeline "Zero-Touch" para despliegue de contenedores en AWS Fargate.<br/>`GitHub Actions` `ECS` `Docker` |
+| **[azure-migration-suite](https://github.com/jgaragorry/azure-onprem-lift-and-shift-lab)** | Suite de automatización para migraciones a Azure sin licencias externas.<br/>`Azure` `Linux` `Rsync` |
 
 👉 También puedes explorar todos mis proyectos públicos en 👉 [**GitHub Repositories**](https://github.com/jgaragorry?tab=repositories).
 
