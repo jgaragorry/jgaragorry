@@ -66,9 +66,7 @@
   <img src="https://github-profile-trophies.vercel.app/?username=jgaragorry&theme=flat&no-frame=true&column=7" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgaragorry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 ---
 
