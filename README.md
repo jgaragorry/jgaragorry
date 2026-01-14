@@ -1,3 +1,5 @@
+
+- 🖊️ **[EsteilinNina](https://github.com/jgaragorry/jgaragorry/issues/9)** dice: *"Gracias a tus videos por tan gran aporte de conocimientos. "* (14/1/2026)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=260&section=header&text=José%20Garagorry&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20Advisor%20%7C%20DevSecOps%20Architect&descAlignY=55&descAlign=50" alt="Header José Garagorry" />
