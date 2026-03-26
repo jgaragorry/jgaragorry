@@ -1,4 +1,6 @@
 
+- 🖊️ **[YV5AJI](https://github.com/jgaragorry/jgaragorry/issues/10)** dice: *"estupenda actividad de 25 mar 2026"* (26/3/2026)
+
 - 🖊️ **[EsteilinNina](https://github.com/jgaragorry/jgaragorry/issues/9)** dice: *"Gracias a tus videos por tan gran aporte de conocimientos. "* (14/1/2026)
 <div align="center">
 
